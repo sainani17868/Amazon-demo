@@ -1,3 +1,4 @@
 # Amazon-demo
 created an webpage of amazon clone
-By malagav sai
+<br>
+By <b>malagav sai<b/>
